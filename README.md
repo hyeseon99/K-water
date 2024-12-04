@@ -34,8 +34,8 @@
 
 ---
 
-### 🔗 프로젝트 관련 링크
-- **프로젝트 URL:** [R Shiny 대시보드](https://example-dashboard-link.com)
+### 🔗 프로젝트 제작 R shiny 홈페이지 링크
+- **프로젝트 URL:** [R Shiny 대시보드](https://spi-predictor.shinyapps.io/spi100/)
 
 ---
 
