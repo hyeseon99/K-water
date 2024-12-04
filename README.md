@@ -21,7 +21,7 @@
 #### 0. 공모전 포스터
 - 아래는 **2024 대국민 물 빅데이터 공모전**을 위한 공식 포스터입니다.
 
-<img src="./image.png" alt="K-water.png" width="600">
+<img src="./image.png" alt="K-water" width="600">
 
 ---
 
