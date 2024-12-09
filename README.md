@@ -40,6 +40,7 @@
 ---
 
 ### 🔗 프로젝트 제작 R shiny 홈페이지 링크
+<img src="./homepage.png" alt="수자원 공모전 슬라이드 1" width="600">
 - **프로젝트 URL:** [R Shiny 대시보드](https://spi-predictor.shinyapps.io/spi100/)
 
 ---
